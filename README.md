@@ -16,3 +16,8 @@
    ```
    $ yarn start
    ```
+
+### To view the tsc output before being bundled by Webpack
+
+1. Run `yarn tsc`
+1. Look in `./dist/out-tsc

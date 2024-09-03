@@ -42,6 +42,7 @@
     "tslib": "^2.3.0"
   },
   "scripts": {
-    "start": "nx serve api"
+    "start": "nx serve api",
+    "tsc": "tsc -p apps/api/tsconfig.app.json"
   }
 }
